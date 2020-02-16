@@ -6,8 +6,8 @@ function nomRev(str) {
     return strRev;
 }
 function verifNomRev(string){
-    let nomRev=nomRev(string);
-    if(nomRev===string){
+    let nomRe=nomRev(string);
+    if(nomRe===string){
         return true;
     }else{
         return false;
