@@ -1,6 +1,6 @@
 function nomRev(str) {
     let strRev="";
-    for(i=(str.length-1);i>=0;i--){
+    for(let i=(str.length-1);i>=0;i--){
         strRev=strRev+str[i];
     }
     return strRev;
