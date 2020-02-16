@@ -29,6 +29,7 @@ function verifNomRev2(string) {
 }
 function verifNomRev3(str) {
     // hihihi kakaka
+    // hohoho
     let strRev=reverseStringCourt(str)
     if(strRev===str){
         return true;
